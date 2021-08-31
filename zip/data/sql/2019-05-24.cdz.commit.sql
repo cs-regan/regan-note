@@ -1,1 +1,0 @@
-ALTER TABLE `ol_present_prize_award` ADD COLUMN `integral`  int(11) NOT NULL DEFAULT 0 COMMENT '发放积分数量' AFTER `flag`;

@@ -1,2 +1,0 @@
-update ol_user set payed_student_status = 2 where id in(SELECT user_id from ol_order_class_apply_log where audit_state=2)
-update ol_user set payed_student_status = 6 where id in(SELECT user_id from ol_order_class_apply_log where audit_state=3)
