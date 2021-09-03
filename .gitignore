@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 
-*
 
-!*/docs
-!README.md
+.idea
+html
+book.php
