@@ -22,9 +22,19 @@
 ### redis
 #### [缓存-redis-主从延迟](docs/缓存/redis/主从延迟.md)
 
+#### [缓存-redis-redis主从哨兵实践](docs/缓存/redis/redis主从哨兵实践.md)
+
 #### [缓存-redis-redis主从同步原理](docs/缓存/redis/redis主从同步原理.md)
 
-#### [缓存-redis-redis集群](docs/缓存/redis/redis集群.md)
+#### [缓存-redis-redis Cluster分析](docs/缓存/redis/redis Cluster分析.md)
+
+#### [缓存-redis-redis哨兵Sentinel高可用](docs/缓存/redis/redis哨兵Sentinel高可用.md)
+
+## 服务组件
+### 开源组件
+#### [服务组件-开源组件-运维监控](docs/服务组件/开源组件/运维监控.md)
+
+#### [服务组件-开源组件-数据库](docs/服务组件/开源组件/数据库.md)
 
 ## linux
 ### 常用命令
