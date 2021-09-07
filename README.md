@@ -26,9 +26,9 @@
 
 #### [缓存-redis-redis主从同步原理](docs/缓存/redis/redis主从同步原理.md)
 
-#### [缓存-redis-redis Cluster分析](docs/缓存/redis/redis Cluster分析.md)
-
 #### [缓存-redis-redis哨兵Sentinel高可用](docs/缓存/redis/redis哨兵Sentinel高可用.md)
+
+#### [缓存-redis-redis集群分析](docs/缓存/redis/redis集群分析.md)
 
 ## 服务组件
 ### 开源组件
