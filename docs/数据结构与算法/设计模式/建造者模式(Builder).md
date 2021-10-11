@@ -2,13 +2,13 @@
 
 封装一个对象的构造过程，并允许按步骤构造。
 
-### [#](http://www.cyc2018.xyz/其它/设计模式/设计模式 - 生成器.html#class-diagram)Class Diagram
+### Class Diagram
 
 ![img](https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/db5e376d-0b3e-490e-a43a-3231914b6668.png)
 
 
 
-### [#](http://www.cyc2018.xyz/其它/设计模式/设计模式 - 生成器.html#implementation)Implementation
+### Implementation
 
 以下是一个简易的 StringBuilder 实现，参考了 JDK 1.8 源码。
 
