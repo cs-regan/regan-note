@@ -40,18 +40,32 @@
 #### [数据库-mysql-explain分析sql](docs/数据库/mysql/explain分析sql.md)
 
 ## php
+### fpm
+#### [php-fpm-fpm工作模型](docs/php/fpm/fpm工作模型.md)
+
+### 面试
+#### [php-面试-面试遇到的问题](docs/php/面试/面试遇到的问题.md)
+
 ### laravel
 #### [php-laravel-依赖注入](docs/php/laravel/依赖注入.md)
 
 #### [php-laravel-生命周期](docs/php/laravel/生命周期.md)
 
+## 中间件
+### rabbitmq
+#### [中间件-rabbitmq-rabbitmq如何保证消息不丢失](docs/中间件/rabbitmq/rabbitmq如何保证消息不丢失.md)
+
 ## 缓存
 ### redis
 #### [缓存-redis-主从延迟](docs/缓存/redis/主从延迟.md)
 
+#### [缓存-redis-redis数据结构](docs/缓存/redis/redis数据结构.md)
+
 #### [缓存-redis-redis主从哨兵实践](docs/缓存/redis/redis主从哨兵实践.md)
 
 #### [缓存-redis-redis主从同步原理](docs/缓存/redis/redis主从同步原理.md)
+
+#### [缓存-redis-redis缓存过期和内存淘汰策略](docs/缓存/redis/redis缓存过期和内存淘汰策略.md)
 
 #### [缓存-redis-redis集群分析](docs/缓存/redis/redis集群分析.md)
 
