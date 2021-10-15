@@ -47,3 +47,9 @@ RabbitMQ 的消息默认存放在内存上面，如果不特别声明设置，�
 具体可以参考下图
 
 ![img](http://qiniu.likephp.cn/image/sFwT8IIrVk5UOjNX2oIvVKc7lu2x2sIaq0pHZSwo.png)
+
+
+
+
+
+[Tag]: <tag>rabbitmq</tag>
